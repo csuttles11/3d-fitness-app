@@ -29,6 +29,10 @@ An interactive web application that helps users explore workouts by clicking on 
 - Structuring scalable front-end projects
 
 ## 📂 Installation
+
+Clone the repository and run:
+
 ```bash
 npm install
 npm run dev
+
