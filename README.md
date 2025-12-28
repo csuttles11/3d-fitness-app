@@ -1,6 +1,7 @@
 # Interactive 3D Fitness App
 
 An interactive web application that helps users explore workouts by clicking on different body parts using a 3D human model.
+  - Users can rotate the model, select muscle groups, and view targeted exercises in an intuitive visual interface.
 
 ## Features
 - Interactive 3D human body model (React Three Fiber)
