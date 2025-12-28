@@ -18,6 +18,8 @@ An interactive web application that helps users explore workouts by clicking on 
 
 ## 📸 Screenshots
 <img width="2556" height="1318" alt="image" src="https://github.com/user-attachments/assets/ef324612-127f-4bf1-b376-bafec3e41456" />
+<img width="2559" height="1319" alt="image" src="https://github.com/user-attachments/assets/d7855fd7-a183-4a54-b72c-ba103de19ceb" />
+
 
 ## 🧠 What I Learned
 - Integrating Three.js with React
