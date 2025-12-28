@@ -1,2 +1,30 @@
-# 3d-fitness-app
-3D fitness training interface built with React and Three.js, featuring a clickable human anatomy model, smooth camera controls, and dynamic routing to muscle-specific exercise pages.
+# Interactive 3D Fitness App
+
+An interactive web application that helps users explore workouts by clicking on different body parts using a 3D human model.
+
+## Features
+- Interactive 3D human body model (React Three Fiber)
+- Clickable muscle groups that navigate to exercise pages
+- Organized workouts by muscle group (chest, back, abs, legs, arms)
+- Animated UI and modern layout
+- Clean, responsive design
+
+## Stack
+- React
+- React Router
+- Three.js / React Three Fiber
+- HTML / CSS
+- JavaScript
+
+## 📸 Screenshots
+
+## 🧠 What I Learned
+- Integrating Three.js with React
+- Managing navigation and state with React Router
+- UI layout and positioning with CSS
+- Structuring scalable front-end projects
+
+## 📂 Installation
+```bash
+npm install
+npm run dev
